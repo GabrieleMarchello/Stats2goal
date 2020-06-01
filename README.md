@@ -6,6 +6,8 @@ Stats2goal requires a few parameters in input - to specify the game of interests
 
 It produces in ouput a .gif file for each goal.
 
+## How to run ##
+
 **stats2goal.py** is comprised of four different files: *stats2goal.py*, *utils.py*, *plots.py*, and *drawpitch.py*.
 The Stats2goal.py receives in input all the paraters the user has to define, including the gender, the competition, the country, the team of interest and its opponent. In addition, it receives in input both *dpi* and *fps* values to write the .gif file in output.
 
