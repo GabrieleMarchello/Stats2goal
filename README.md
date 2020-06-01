@@ -6,8 +6,9 @@ Stats2goal requires a few parameters in input - to specify the game of interests
 
 It produces in ouput a .gif file for each goal.
 
-![](https://github.com/GabrieleMarchello/Stats2goal/blob/master/images/1819Real%20MadridVsBarcelona0-1_027.jpg?raw=true) 
+![](https://github.com/GabrieleMarchello/Stats2goal/blob/master/images/1819Real%20MadridVsBarcelona0-1.gif?raw=true) 
 
+The version here implemented registers as .gif all the goals scored in every Clasico (Barcelona - Real Madrid) since 2005/2006.
 
 ## How to run ##
 
