@@ -3,6 +3,7 @@
 Stats2goal is an algorithm written in Python to produce a graphical representation of goal scored in every game registered by **statsbomb**. 
 Stats2goal requires a few parameters in input - to specify the game of interests -, and the .json file that can be downloaded from the following link:
 > https://statsbomb.com/academy/ 
+
 It produces in ouput a .gif file for each goal.
 
 **stats2goal.py** is comprised of four different files: *stats2goal.py*, *utils.py*, *plots.py*, and *drawpitch.py*.
