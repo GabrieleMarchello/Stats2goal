@@ -6,7 +6,7 @@ Stats2goal requires a few parameters in input - to specify the game of interests
 
 It produces in ouput a .gif file for each goal.
 
-![](images/1819Real MadridVsBarcelona0-1_027.jpg) 
+![](https://github.com/GabrieleMarchello/Stats2goal/blob/master/images/1819Real%20MadridVsBarcelona0-1_027.jpg?raw=true) 
 
 
 ## How to run ##
