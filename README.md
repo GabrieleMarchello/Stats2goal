@@ -6,6 +6,8 @@ Stats2goal requires a few parameters in input - to specify the game of interests
 
 It produces in ouput a .gif file for each goal.
 
+![](images/1819Real MadridVsBarcelona0-1.gif) 
+
 ## How to run ##
 
 **stats2goal.py** is comprised of four different files: *stats2goal.py*, *utils.py*, *plots.py*, and *drawpitch.py*.
