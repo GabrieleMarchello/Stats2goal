@@ -9,7 +9,7 @@ It produces in ouput a .gif file for each goal.
 ## How to run ##
 
 **stats2goal.py** is comprised of four different files: *stats2goal.py*, *utils.py*, *plots.py*, and *drawpitch.py*.
-The Stats2goal.py receives in input all the paraters the user has to define, including the gender, the competition, the country, the team of interest and its opponent. In addition, it receives in input both *dpi* and *fps* values to write the .gif file in output.
+The Stats2goal.py receives in input all the paraters the user has to define, including the gender, the competition, the country, the team of interest and its opponent. In addition, it receives in input both dpi and fps values to write the .gif file in output.
 
 **utils.py** is imported in the main stats2goal.py code and contains all the functions needed to extract the steps leading to score a goal.
 
